@@ -1,0 +1,35 @@
+# ----------------------------------------------------------------------
+# LINGKUNGAN VIRTUAL DAN PYTHON CACHE
+# ----------------------------------------------------------------------
+
+# Lingkungan virtual yang dibuat oleh 'python -m venv venv'
+venv/
+.venv/
+
+# File bytecode Python
+__pycache__/
+*.pyc
+
+# ----------------------------------------------------------------------
+# FOLDER OUTPUT LOKAL
+# ----------------------------------------------------------------------
+
+# Folder input dan output yang dibuat oleh skrip Anda
+merged/
+source/
+
+# ----------------------------------------------------------------------
+# FILE IDE DAN SISTEM OPERASI UMUM
+# ----------------------------------------------------------------------
+
+# macOS
+.DS_Store
+
+# PyCharm/IntelliJ
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# File log dan debug
+*.log
